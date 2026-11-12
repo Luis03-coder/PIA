@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CafeteriaApp.csproj" />
+  <Project Path="CafeteriaApp.WinUI\CafeteriaApp.WinUI.csproj" />
+</Solution>
